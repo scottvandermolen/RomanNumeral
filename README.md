@@ -18,8 +18,6 @@ The file RomanNumeral.test.php is not required in order to use the library and d
 
 Place RomanNumeral.class.asp in any location on your web server, or on another machine on the same network. For additional security, you may wish to place it in a location that isn't directly accessible by users.
 
-Optionally, you may register the Windows Script Component by right-clicking on the file in Windows Explorer and choosing Register.
-
 The file RomanNumeral.test.asp is not required in order to use the library and does not need to be placed on the web server unless you want to run unit tests.
 
 ## Usage
