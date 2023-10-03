@@ -38,6 +38,7 @@
 		Response.Write "Result:    Test " & resultText &  "!" & vbCrLf & vbCrLf
 		
 		testRomanValue = result
+		set testNumeral = nothing
 	end function
 	
 	' Creates a Roman numeral from a string and checks the Arabic value.
@@ -70,6 +71,7 @@
 		Response.Write "Result:    Test " & resultText &  "!" & vbCrLf & vbCrLf
 		
 		testArabicValue = result
+		set testNumeral = nothing
 	end function
 	
 	' Tests addition
@@ -104,6 +106,7 @@
 		Response.Write "Result:    Test " & resultText &  "!" & vbCrLf & vbCrLf
 		
 		testAddition = result
+		set testNumeral = nothing
 	end function
 	
 	' Create an HTML container for our output.
