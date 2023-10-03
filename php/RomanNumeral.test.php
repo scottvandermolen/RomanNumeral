@@ -57,7 +57,7 @@
 		$actual = $testNumeral->get_value_roman();
 		$result = $actual == $expected;
 		
-		echo "Unit Test: get_value_roman())\n";
+		echo "Unit Test: get_value_roman()\n";
 		echo "Input:     " . $input . "\n";
 		echo "Expected:  " . $expected . "\n";
 		echo "Actual:    " . $actual . "\n";
@@ -81,7 +81,7 @@
 		$actual = $testNumeral->get_value_arabic();
 		$result = $actual == $expected;
 		
-		echo "Unit Test: get_value_arabic())\n";
+		echo "Unit Test: get_value_arabic()\n";
 		echo "Input:     " . $input . "\n";
 		echo "Expected:  " . $expected . "\n";
 		echo "Actual:    " . $actual . "\n";
@@ -107,7 +107,7 @@
 		$actual = $testNumeral->get_value_roman();
 		$result = $actual == $expected;
 		
-		echo "Unit Test: add())\n";
+		echo "Unit Test: add()\n";
 		echo "Input:     " . $firstValue . " + " . $secondValue . "\n";
 		echo "Expected:  " . $expected . "\n";
 		echo "Actual:    " . $actual . "\n";
