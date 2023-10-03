@@ -80,8 +80,11 @@ See RomanNumeral.test.php or RomanNumeral.test.asp for unit tests.
 ## Authors
 
 Version 1.0 written March 2008 by Scott Vander Molen
+
 Version 1.1 written August 2008 by Scott Vander Molen - added support for large numbers
+
 Version 1.2 written September 2010 by Scott Vander Molen and Keith Alexander - added validation function
+
 Version 2.0 written October 2023 by Scott Vander Molen - conversion to class object, bug fix for fractional values, and improved support for large numbers
 
 ## License
